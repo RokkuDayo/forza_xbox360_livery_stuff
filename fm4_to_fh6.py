@@ -3,7 +3,8 @@
 --Forza Motorsport 4 to Forza Horizon 6 livery converter--
 --by RokkuDayo--
 
-Convert a decompressed Xbox 360 FM4 livery to an FH6 C_livery.
+Converts a decompressed Xbox 360 FM4 livery to an FH6 C_livery.
+This is more of a silly experiment and does not try to properly reverse the format at all.
 
 Do note that the final result won't load up in-game properly.
 You must use Forza Livery Studio to open the final result and extract each region as an entire vinyl group.
